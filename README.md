@@ -35,7 +35,7 @@ This project aims to use EEG data to generate music based on a patient's emotion
 
    - To preprocess EEG data and generate music, run the main script:
      ```sh
-     python3 eeg_preprocessing_extended.py
+     python3 eeg_preprocessing.py
      ```
    - This will process the EEG data from `sample_eeg_data.csv`, predict the emotional state, and play the appropriate music.
 
